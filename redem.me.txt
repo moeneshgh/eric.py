@@ -1,0 +1,2 @@
+cd eric.b
+python2 eric.py
